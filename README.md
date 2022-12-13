@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Andrés Felipe Pérez Martínez
 
 <!--
 **andres-perez-coopsana/andres-perez-coopsana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi there, I´M Andrés Felipe Pérez Martínez👋 
+
+**Software Developer at Coopsana ips🧑‍🎓**
+
+🧑‍💻***web full stack developer***🧑‍💻
+
+*Passionate about technology and its implementation in everyday life*
+
+## Skills 🔧 and expertise⚙️
+
+***Programming languages***: php, node js
+
+***Frameworks***: angular
+
+## Contact:
+[Linkeind](https://www.linkedin.com/in/anfepema700/): - [Twitter](https://twitter.com/andres97083145) - [github   ](https://github.com/anfepema700) - [Facebook](https://www.facebook.com/anfepema700/) - [Instagram](https://www.instagram.com/perezmartinezandresfelipe/) 

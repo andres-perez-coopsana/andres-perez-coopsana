@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ## Skills 🔧 and expertise⚙️
 
-***Programming languages***: php, node js
+***Programming languages***: javascript
 
-***Frameworks***: angular
+***Frameworks***: react js, nest js.
 
 ## Contact:
 [Linkeind](https://www.linkedin.com/in/anfepema700/): - [Twitter](https://twitter.com/andres97083145) - [github   ](https://github.com/anfepema700) - [Facebook](https://www.facebook.com/anfepema700/) - [Instagram](https://www.instagram.com/perezmartinezandresfelipe/) 
